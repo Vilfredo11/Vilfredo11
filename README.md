@@ -14,7 +14,37 @@
   </a>
   </div>
 
- **Hey folks!🕶**
+
  
- I'm Fikret...
-  
+ :earth_americas: *Hey folks!*
+ 
+---   
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
+ **About Me :**
+ 
+ I'm Fikret,...
+
+---
+
+
+
+:briefcase: **Skills:** 
+
+ 
+ <div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="33" height="33"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="33" height="33"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="33" height="33"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="33" height="33"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="33" height="33"/>
+</div>
+
+---
+ 
+ 
+ :mag_right: **My Stats :**
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github.com/Vilfredo11&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
