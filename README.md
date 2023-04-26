@@ -7,7 +7,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/fikretmirzaev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"width="98"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"width="97.3"/>
   </a>
   <a href="https://t.me/vilfredo11">
     <img src="https://camo.githubusercontent.com/b21bbc938dd2853b37619f74c5427bb6a530fe905111880dd4d51defedc75d8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"width="100"/>
