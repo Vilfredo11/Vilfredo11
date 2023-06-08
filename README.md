@@ -22,7 +22,13 @@
   <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
  **About Me :**
  
- I'm Fikret,...
+I'm an aspiring software tester, eager to spread my wings in the realm of testing. The world of software development is full of mysteries and opportunities, and I'm ready to explore them alongside a team of talented developers and testers.
+
+My journey into testing began recently, but my passion for bug-finding and ensuring software quality knows no bounds. I'm fascinated by learning different testing methodologies and tools, and I'm excited to leverage them to create reliable and user-friendly software products.
+
+I believe that testing is an art of finding defects, and my goal is to turn this art into a craft. I aim to be a dependable partner to developers, helping them create products that are not only functional but also truly impress users.
+
+My name is Fikret. If you have interesting projects, proposals, or questions, feel free to reach out to me. Let's build a future of software where quality is the foundation of every step!
 
 ---
 
